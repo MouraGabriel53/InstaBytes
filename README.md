@@ -1,7 +1,7 @@
-<h1 align="center"> InstaByte </h1>
+<h1 align="center"> InstaBytes </h1>
 
 <p align="center">
-Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.com.br/">Alura</a> e tem o objetivo de criar um site, o qual permite os usuários publicaram e atualizarem fotos. 
+Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.com.br/">Alura</a> e tem o objetivo de criar uma API, a qual permite os usuários publicaram e atualizarem fotos num site fictício. 
 </p>
 
 <p align="center">
