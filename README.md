@@ -15,13 +15,13 @@ Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.
 
 ---
 
-## Funcionalidades
+## 🧰 Funcionalidades
 
 - **Publicação de fotos**: Permitir que os usuários enviem imagens e as armazenem no banco de dados.
 - **Atualização de fotos**: Editar ou substituir imagens já publicadas.
 - **Exibição de fotos**: Mostrar uma galeria com as imagens armazenadas.
 
-## Tecnologias Utilizadas
+## 🔎 Tecnologias Utilizadas
 
 - **Frontend**:
   - HTML para estruturação.
@@ -32,7 +32,7 @@ Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.
 - **Banco de Dados**:
   - MongoDB para armazenar informações sobre as imagens.
 
-## Configuração
+## ⚙ Configuração
 
 1. **Clone o repositório:**
    ```bash
@@ -57,7 +57,7 @@ Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.
 
 ---
 
-## Problemas
+## ⚠ Problemas
 
 - **Carregamento de imagens:**
   
@@ -65,14 +65,14 @@ Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.
 
 ---
 
-## Melhorias
+## 🧯 Melhorias
 
 - **Resolver o problema do carregamento de imagens:** Revisar o código responsável pelo upload e exibição das imagens.
 - **Adicionar autenticação:** Proteger a publicação e atualização de fotos.
 
 ---
 
-## Contribuições
+## 🛎 Contribuições
 
 Contribuições são bem-vindas! Caso encontre bugs ou tenha sugestões, abra uma *issue* ou envie um *pull request*.
 
