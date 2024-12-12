@@ -7,7 +7,7 @@ Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.
 <p align="center">
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#configuração-do-ambiente">Configuração do Ambiente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#configuração">Configuração do Ambiente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#problemas">Problemas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#melhorias">Melhorias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contribuições">Contribuições</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
@@ -32,7 +32,7 @@ Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.
 - **Banco de Dados**:
   - MongoDB para armazenar informações sobre as imagens.
 
-## Configuração do Ambiente
+## Configuração
 
 1. **Clone o repositório:**
    ```bash
