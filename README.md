@@ -1,4 +1,4 @@
-# InstaByte com JavaScript, HTML e CSS
+<h1 align="center"> InstaByte </h1>
 
 <p align="center">
 Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.com.br/">Alura</a> e tem o objetivo de criar um site, o qual permite os usuários publicaram e atualizarem fotos. 
