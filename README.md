@@ -1,81 +1,47 @@
-<h1 align="center"> InstaBytes </h1>
+<h1 align="center">InstaBytes</h1>
 
 <p align="center">
-Este projeto foi desenvolvido em parceria 🤝 com a <a href="https://www.alura.com.br/">Alura</a> e tem o objetivo de criar uma API, a qual permite os usuários publicaram e atualizarem fotos num site fictício. 
+This project was developed in partnership 🤝 with <a href="https://www.alura.com.br/">Alura</a> and aims to create an API that allows users to post and update photos on a fictional website. 
 </p>
 
 <p align="center">
-  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-configuração">Configuração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-problemas">Problemas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-melhorias">Melhorias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contribuições">Contribuições</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies-used">Technologies Used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-issues">Issues</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-improvements">Improvements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
----
+## 🧰 Features
 
-## 🧰 Funcionalidades
+- **Post photos**: Allow users to upload images and store them in the database.
+- **Update photos**: Edit or replace previously posted images.
+- **Display photos**: Show a gallery with the stored images.
 
-- **Publicação de fotos**: Permitir que os usuários enviem imagens e as armazenem no banco de dados.
-- **Atualização de fotos**: Editar ou substituir imagens já publicadas.
-- **Exibição de fotos**: Mostrar uma galeria com as imagens armazenadas.
-
-## 🔎 Tecnologias Utilizadas
+## 🔎 Technologies Used
 
 - **Frontend**:
-  - HTML para estruturação.
-  - CSS para estilização.
-  - JavaScript para interatividade no lado do cliente.
+  - HTML for structure.
+  - CSS for styling.
+  - JavaScript for client-side interactivity.
 - **Backend**:
-  - Node.js e Express para a criação da API.
-- **Banco de Dados**:
-  - MongoDB para armazenar informações sobre as imagens.
+  - Node.js and Express are used to create the API.
+- **Database**:
+  - MongoDB for storing image information.
 
-## ⚙ Configuração
+## ⚠ Issues
 
-1. **Clone o repositório:**
-   ```bash
-   git clone <https://github.com/MouraGabriel53/InstaBytes>
-   ```
-
-2. **Instale as dependências:**
-   ```bash
-   npm install
-   ```
-
-3. **Configure o banco de dados MongoDB:**
-   Certifique-se de que o MongoDB está instalado e em execução. Atualize a string de conexão no arquivo `.env` ou diretamente no código.
-
-4. **Inicie o servidor:**
-   ```bash
-   npm start
-   ```
-
-5. **Abra o projeto no navegador:**
-   Acesse `http://localhost:3000`.
-
----
-
-## ⚠ Problemas
-
-- **Carregamento de imagens:**
+- **Image loading**:
   
-  As imagens publicadas não estão sendo carregadas corretamente. Isso pode ser um problema na implementação da API ou no armazenamento das imagens no MongoDB.
+  Published images are not loading correctly. This may be an issue with the API implementation or image storage in MongoDB.
+
+## 🧯 Improvements
+
+- **Fix image loading issue**: Review the code for uploading and displaying images.
+- **Add authentication**: Secure the posting and updating of photos.
+
+## 🛎 Contributions
+
+Contributions are welcome! If you find bugs or have suggestions, please open an *issue* or send a *pull request*.
 
 ---
-
-## 🧯 Melhorias
-
-- **Resolver o problema do carregamento de imagens:** Revisar o código responsável pelo upload e exibição das imagens.
-- **Adicionar autenticação:** Proteger a publicação e atualização de fotos.
-
----
-
-## 🛎 Contribuições
-
-Contribuições são bem-vindas! Caso encontre bugs ou tenha sugestões, abra uma *issue* ou envie um *pull request*.
-
----
-
-
